@@ -1,9 +1,6 @@
 # Image classification
  > Victor Ludvig, November 2023
 
-Part
-
-
 ## Part 1: read data
 See [read_cifar.py](read_cifar.py). <br><br>
 All paths are Posix path. The code will run only on Unix-like operating systems (e.g. Linux, MacOS). <br>
