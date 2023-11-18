@@ -1,0 +1,8 @@
+skin,colour,size,flesh,eats_shortbread,length,is_haggis
+hairy,brown,large,hard,1,3.25,1
+hairy,green,?,hard,1,4.22,1
+?,red,small,soft,0,1.27,0
+hairy,green,large,hard,1,3.55,1
+smooth,red,small,soft,0,2.13,0
+smooth,green,large,soft,1,2.67,0
+hairy,?,large,soft,0,3.77,1
