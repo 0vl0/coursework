@@ -12,7 +12,7 @@ Functions contain minimal code, as requested. <br> Some code could have been red
 <br><br>
 
 ## Part III: implementation of MLP in python.
-See [derivatives.md](./derivatives.md) for answers to questions 2-9. <br>
+See [derivatives.md](derivatives.md) for answers to questions 2-9. <br>
 See [mlp.py](mlp.py) for the rest.<br><br>
 I used Einstein's notation to improve readability. <br>
 I used the gradient notation $\nabla$ when a scalar is derived with respect to (w.r.t) a vector, and jacobian J when a vector is derived w.r.t another vector, instead of the partial derivative notation $\partial$ which is not precise. <br>
