@@ -1,0 +1,15 @@
+image-classification/data/
+image-classification/test.ipynb
+image-classification/results/mlp_100_epochs.png
+image-classification/results/mlp_10_epochs.png
+image-classification/.gitignore
+image-classification/__pycache__
+image-classification/.git
+
+classification_pytorch/data
+classification_pytorch/test
+classification_pytorch/cat.jpg
+classification_pytorch/dog.png
+classification_pytorch/imagenet-simple-labels.json
+classification_pytorch/lynx.jpg
+classification_pytorch/pink_elephant.jpg
