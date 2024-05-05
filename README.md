@@ -31,7 +31,7 @@ This repo contains *some* coursework I did during my last year at École Central
 
 - Reinforcement Learning basics: [reinforcement_learning](reinforcement_learning)
 
-- NeRF tutorial for prof. ![Chen](https://scholar.google.com.au/citations?user=VOPW5YYAAAAJ&hl=fr&oi=ao): [NeRF_tutorial](NeRF_tutorial).
+- NeRF tutorial for prof. [Chen](https://scholar.google.com.au/citations?user=VOPW5YYAAAAJ&hl=fr&oi=ao): [NeRF_tutorial](NeRF_tutorial).
 
 
 ## Hacking
