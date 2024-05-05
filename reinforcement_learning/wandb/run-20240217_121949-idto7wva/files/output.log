@@ -1,0 +1,39 @@
+Using cpu device
+Wrapping the env with a `Monitor` wrapper
+Wrapping the env in a DummyVecEnv.
+Logging to ./a2c_pandareach_tensorboard/training_panda_reach_2
+------------------------------------
+| rollout/              |          |
+|    ep_len_mean        | 45.1     |
+|    ep_rew_mean        | -8.85    |
+| time/                 |          |
+|    fps                | 373      |
+|    iterations         | 100      |
+|    time_elapsed       | 1        |
+|    total_timesteps    | 500      |
+| train/                |          |
+|    entropy_loss       | -9.99    |
+|    explained_variance | -1.07    |
+|    learning_rate      | 0.0007   |
+|    n_updates          | 99       |
+|    policy_loss        | -8.58    |
+|    std                | 1.01     |
+|    value_loss         | 0.771    |
+------------------------------------
+------------------------------------
+| rollout/              |          |
+|    ep_len_mean        | 43.5     |
+|    ep_rew_mean        | -9.7     |
+| time/                 |          |
+|    fps                | 361      |
+|    iterations         | 200      |
+|    time_elapsed       | 2        |
+|    total_timesteps    | 1000     |
+| train/                |          |
+|    entropy_loss       | -9.99    |
+|    explained_variance | -21.2    |
+|    learning_rate      | 0.0007   |
+|    n_updates          | 199      |
+|    policy_loss        | -0.778   |
+|    std                | 1.01     |
+|    value_loss         | 0.0253   |
